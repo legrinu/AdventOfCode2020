@@ -1,5 +1,5 @@
 #Get Input
-file = "0212/INPUT_Lukas"
+file = "0212/0212"
 input_list = []
 with open(file, "r") as input_file:
     input_list = input_file.readlines()
